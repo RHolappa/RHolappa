@@ -6,8 +6,7 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/rholappa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:risto@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://reipas.io"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
 </div>
 
 ## 🚀 About Me
