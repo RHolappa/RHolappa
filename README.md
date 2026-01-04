@@ -1,6 +1,11 @@
 # Hello there 👋
 
 <div align="center">
+  <b>📍 Current open Source projects: </b>
+   <a href="https://github.com/Devometric/devometric-platform">Devometric - A platform that analyses and assesses your engineering team's AI capabilities</a>
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=30&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Embedded+Systems+Engineer;Cloud+Architecture+Specialist" alt="Typing SVG" />
 </div>
 
