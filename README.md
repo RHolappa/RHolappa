@@ -20,8 +20,8 @@
 const risto = {
   location: "🇫🇮 Suomi",
   languages: ["Finnish", "English"],
-  currentRole: "Freelance Full-Stack Developer",
-  passions: ["Clean Code", "System Architecture", "AI nativeness"],
+  currentRole: "CTO & Freelance Full-Stack Developer",
+  passions: ["Clean Code", "System Architecture", "AI native leadership"],
   currentlyLearning: "Always exploring new technologies"
 };
 ```
