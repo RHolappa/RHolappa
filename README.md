@@ -29,11 +29,6 @@ const risto = {
 ## 💼 Professional Journey
 
 <details>
-<summary><b>📍 Current Focus</b></summary>
-
-- 🔧 Building scalable web applications with modern frameworks and libraries
-- ☁️ Architecting AI native and cloud solutions
-- 📱 Creating mobile experiences that really show and perform
  
 </details>
 
