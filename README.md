@@ -128,7 +128,6 @@ Automotive infotainment HMI systems, embedded C++ development, POC projects with
 - 🥇 **Honorable Mention** — 4th Laurence Tran Arctic Futures Award (Polar Foundation, 2025)
 - 🎤 **Startup Pitch** — Slush Oulu Side Event 2025
 - 🚀 **Pitching Competition** — Oulu Kickstart 2025
-- 🌏 **International Speaker** — Startup pitch to Japanese students (2026)
 - 📰 **Media Feature** — Kaleva article on Willit marketplace
 
 ---
