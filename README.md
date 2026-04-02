@@ -3,6 +3,8 @@
 <div align="center">
   <b>📍 Current Open Source projects: </b>
    <a href="https://github.com/Devometric/devometric-platform">Devometric - A platform that analyses and assesses your engineering team's AI capabilities</a>
+     <a href="https://github.com/lykky-co-oulu/lykky">Lykky - Go-to-market toolkit and knowledge base for Oulu based startups and founders</a>
+
 </div>
 
 <div align="center">
@@ -21,7 +23,7 @@
 const risto = {
   location: "🇫🇮 Oulu, Finland",
   languages: ["Finnish 🇫🇮", "English 🇬🇧", "Swedish 🇸🇪"],
-  currentRoles: ["CTO @ Willit Oy", "CTO @ Rakentaja Mediat Oy"],
+  currentRoles: ["Founder @ Willit Oy", "Tech Lead @ Rakentaja Mediat Oy"],
   passions: [
     "AI-Enhanced Development",
     "System Architecture",
@@ -35,13 +37,13 @@ const risto = {
 ## 💼 Professional Journey
 
 <details>
-<summary><b>🔶 Founder / CTO — Willit Oy (2025 – Present)</b></summary>
+<summary><b>🔶 Founder — Willit Oy (2025 – Present)</b></summary>
 <br>
 Scalable B2B/P2P marketplace platform built from scratch. Ruby on Rails 8 monolith (Solid Trifecta, Hotwire), cloud APIs, and systems integration. 99.9% uptime with serverless infrastructure.
 </details>
 
 <details>
-<summary><b>🔶 Software Manager / CTO — Rakentaja Mediat Oy (2024 – Present)</b></summary>
+<summary><b>🔶 Tech Lead — Rakentaja Mediat Oy (2024 – Present)</b></summary>
 <br>
 Leading technical transformation of 7+ media sites serving 300,000+ registered users. Refactoring 40+ years of legacy systems. Reduced page load times by 60%. Built AWS infrastructure with Next.js and Django Wagtail.
 </details>
@@ -126,8 +128,7 @@ Automotive infotainment HMI systems, embedded C++ development, POC projects with
 ## 🏆 Awards & Speaking
 
 - 🥇 **Honorable Mention** — 4th Laurence Tran Arctic Futures Award (Polar Foundation, 2025)
-- 🎤 **Startup Pitch** — Slush Oulu Side Event 2025
-- 🚀 **Pitching Competition** — Oulu Kickstart 2025
+- 🎤 **Startup Pitching** — Slush Oulu Side Event 2025
 - 📰 **Media Feature** — Kaleva article on Willit marketplace
 
 ---
