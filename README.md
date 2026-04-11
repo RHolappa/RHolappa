@@ -2,9 +2,12 @@
 
 <div align="center">
   <b>📍 Current Open Source projects: </b>
-   <a href="https://github.com/Devometric/devometric-platform">Devometric - A platform that analyses and assesses your engineering team's AI capabilities</a>
+  <b>📍 Devometric </b>
+   <a href="https://github.com/Devometric/devometric-platform"> A platform that analyses and assesses your engineering team's AI capabilities</a>
+    <b>📍 Lykky </b>
      <a href="https://github.com/lykky-co-oulu/lykky">Lykky - Go-to-market toolkit and knowledge base for Oulu based startups and founders</a>
-
+    <b>📍 views-forecast-api </b>
+     <a href="https://github.com/RHolappa/views-forecast-api">Open-source FastAPI service that exposes the VIEWS conflict forecasting dataset through a clean, well-documented REST API.</a>
 </div>
 
 <div align="center">
@@ -30,7 +33,7 @@ const risto = {
     "Legacy Modernization",
     "Startup Leadership"
   ],
-  funFact: "Transformed 40+ year-old legacy systems serving 300K+ users"
+  funFact: ""
 };
 ```
 
@@ -45,19 +48,13 @@ Scalable B2B/P2P marketplace platform built from scratch. Ruby on Rails 8 monoli
 <details>
 <summary><b>🔶 Tech Lead — Rakentaja Mediat Oy (2024 – Present)</b></summary>
 <br>
-Leading technical transformation of 7+ media sites serving 300,000+ registered users. Refactoring 40+ years of legacy systems. Reduced page load times by 60%. Built AWS infrastructure with Next.js and Django Wagtail.
+Leading technical on 7+ content platform sites serving 300,000+ registered users. History of 40+ years of legacy systems. Reduced page load times by 60%. Built AWS infrastructure with modern tools, and tech stacks like Next.js and Django Wagtail, terraform.
 </details>
 
 <details>
 <summary><b>🔶 Ext. Software Developer — Large Finnish Fintech (2022 – 2025)</b></summary>
 <br>
-Cloud-based chat applications serving 2M+ banking customers. AWS architecture handling 100K+ daily interactions. Kubernetes orchestration, API solutions, and database optimization.
-</details>
-
-<details>
-<summary><b>🔶 Full Stack Developer — Schibsted Suomi Oy (2023 – 2024)</b></summary>
-<br>
-Technical development of Rakentaja.fi product family (7+ sites). Content publishing platform modernization. AWS architecture with Kubernetes orchestration.
+Cloud-based AI - chat applications serving 2M+ banking customers. Mainly frontend work with design systems. AWS architecture handling 100K+ daily interactions. Kubernetes orchestration and API solutions.
 </details>
 
 <details>
