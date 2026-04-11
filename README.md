@@ -46,7 +46,7 @@ Scalable B2B/P2P marketplace platform built from scratch. Ruby on Rails 8 monoli
 </details>
 
 <details>
-<summary><b>🔶 Tech Lead — Rakentaja Mediat Oy (2024 – Present)</b></summary>
+<summary><b>🔶 Full stack - Tech Lead — Rakentaja Mediat Oy (2024 – Present)</b></summary>
 <br>
 Leading technical on 7+ content platform sites serving 300,000+ registered users. History of 40+ years of legacy systems. Reduced page load times by 60%. Built AWS infrastructure with modern tools, and tech stacks like Next.js and Django Wagtail, terraform.
 </details>
