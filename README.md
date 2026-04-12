@@ -1,14 +1,4 @@
-# Hello there 👋
-
-<div align="center">
-  <b>📍 Current Open Source projects: </b>
-  <b>📍 Devometric </b>
-   <a href="https://github.com/Devometric/devometric-platform"> A platform that analyses and assesses your engineering team's AI capabilities</a>
-    <b>📍 Lykky </b>
-     <a href="https://github.com/lykky-co-oulu/lykky">Lykky - Go-to-market toolkit and knowledge base for Oulu based startups and founders</a>
-    <b>📍 views-forecast-api </b>
-     <a href="https://github.com/RHolappa/views-forecast-api">Open-source FastAPI service that exposes the VIEWS conflict forecasting dataset through a clean, well-documented REST API.</a>
-</div>
+# Hello there
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=30&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Developer;CTO+%26+Founder;Cloud+Architecture+Specialist;AI-Enhanced+Dev+Pioneer" alt="Typing SVG" />
@@ -20,117 +10,218 @@
   <a href="mailto:risto@willit.fi"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
-## 🚀 About Me
+---
 
-```typescript
-const risto = {
-  location: "🇫🇮 Oulu, Finland",
-  languages: ["Finnish 🇫🇮", "English 🇬🇧", "Swedish 🇸🇪"],
-  currentRoles: ["Founder @ Willit Oy", "Tech Lead @ Rakentaja Mediat Oy"],
-  passions: [
-    "AI-Enhanced Development",
-    "System Architecture",
-    "Legacy Modernization",
-    "Startup Leadership"
-  ],
-  funFact: ""
-};
+## Willit — Arctic Food Marketplace
+
+<table>
+  <tr>
+    <td>
+      <h3><a href="https://willit.fi">willit.fi</a> &middot; In Production</h3>
+      <p>Promoting the accessibility of arctic food by connecting foragers, fishers, and small producers directly with consumers. Scalable B2B/P2P marketplace built from scratch as a <strong>Rails 8 monolith</strong> (Solid Trifecta, Hotwire) with serverless AWS infrastructure. 99.9% uptime.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Co--funded_by_the_European_Union-003399?style=flat-square" />
+        <img src="https://img.shields.io/badge/Oulun_Seudun_Leader_ry-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/EAFRD_2023–2027-003399?style=flat-square" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Rails_8-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hotwire-FF4500?style=flat-square&logo=hotwire&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900" />
+        <img src="https://img.shields.io/badge/Vismapay-0078D4?style=flat-square&logoColor=white" />
+      </p>
+      <table>
+        <tr>
+          <td><a href="https://www.lahikalaa.fi/">lahikalaa.fi</a><br><sub>Spinoff — Fish marketplace for commercial fishermen</sub></td>
+          <td><a href="https://willit24.com">willit24.com</a><br><sub>Smart 24/7 pickup cabinets with temperature monitoring</sub></td>
+          <td><a href="https://willitpro.com">willitpro.com</a><br><sub>AI procurement assistant for restaurants &amp; kitchens</sub></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+## More Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://www.skoutti.com/">Skoutti</a></h3>
+      <p><em>AI-powered lead generation</em></p>
+      <p>Enter your company name — AI analyzes your website, identifies your target audience, and finds matching leads automatically.</p>
+      <p>
+        <img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/SaaS-3B82F6?style=flat-square&logoColor=white" />
+      </p>
+      <a href="https://www.skoutti.com/">skoutti.com</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://www.sinun.ai/fi">Sinun AI</a></h3>
+      <p><em>Trademark — AI assistant for businesses</em></p>
+      <p>Custom AI assistant that knows your company, works in familiar channels, and follows your rules. Hosted in Finland.</p>
+      <p>
+        <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hosted_in_Finland-003580?style=flat-square" />
+      </p>
+      <a href="https://www.sinun.ai/fi">sinun.ai</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Founders of Oulu ry</h3>
+      <p><em>Non-profit — upcoming</em></p>
+      <p>Community-driven non-profit helping builders and founders thrive in the Oulu startup ecosystem.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Non--Profit-10B981?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Status-Upcoming-yellow?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+### Open Source
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/Devometric/devometric-platform">Devometric</a></h3>
+      <p>Platform that analyses and assesses your engineering team's AI capabilities.</p>
+      <p>
+        <a href="https://github.com/Devometric/devometric-platform"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/lykky-co-oulu/lykky">Lykky</a></h3>
+      <p>Go-to-market toolkit and knowledge base for Oulu-based startups and founders.</p>
+      <p>
+        <a href="https://github.com/lykky-co-oulu/lykky"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/RHolappa/views-forecast-api">VIEWS Forecast API</a></h3>
+      <p>FastAPI service exposing the VIEWS conflict forecasting dataset through a clean REST API.</p>
+      <p>
+        <a href="https://github.com/RHolappa/views-forecast-api"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## About Me
+
+```ruby
+class Founder < Developer
+  LOCATION = "Oulu, Finland"
+  SPEAKS   = %w[Finnish English Swedish]
+
+  def current_work
+    {
+      building:   "Willit — arctic food marketplace (willit.fi)",
+      leading:    "Tech @ Rakentaja Mediat — 7 platforms, 300k+ users",
+      exploring:  "AI-powered lead gen, RAG assistants, community tools"
+    }
+  end
+
+  def stack
+    "Rails 8 · Hotwire · AWS · React · Next.js · Python · Terraform"
+  end
+
+  def philosophy
+    "Ship fast. Modernize legacy. Let AI handle the boring parts."
+  end
+end
 ```
 
-## 💼 Professional Journey
+## Professional Journey
 
 <details>
-<summary><b>🔶 Founder — Willit Oy (2025 – Present)</b></summary>
+<summary><b>Founder — Willit Oy (2025 – Present)</b></summary>
 <br>
 Scalable B2B/P2P marketplace platform built from scratch. Ruby on Rails 8 monolith (Solid Trifecta, Hotwire), cloud APIs, and systems integration. 99.9% uptime with serverless infrastructure.
 </details>
 
 <details>
-<summary><b>🔶 Full stack - Tech Lead — Rakentaja Mediat Oy (2024 – Present)</b></summary>
+<summary><b>Full stack - Tech Lead — Rakentaja Mediat Oy (2024 – Present)</b></summary>
 <br>
 Leading technical on 7+ content platform sites serving 300,000+ registered users. History of 40+ years of legacy systems. Reduced page load times by 60%. Built AWS infrastructure with modern tools, and tech stacks like Next.js and Django Wagtail, terraform.
 </details>
 
 <details>
-<summary><b>🔶 Ext. Software Developer — Large Finnish Fintech (2022 – 2025)</b></summary>
+<summary><b>Ext. Software Developer — Large Finnish Fintech (2022 – 2025)</b></summary>
 <br>
 Cloud-based AI - chat applications serving 2M+ banking customers. Mainly frontend work with design systems. AWS architecture handling 100K+ daily interactions. Kubernetes orchestration and API solutions.
 </details>
 
 <details>
-<summary><b>🔶 Senior Full-Stack Engineer — NextUp Oy (2020 – 2022)</b></summary>
+<summary><b>Senior Full-Stack Engineer — NextUp Oy (2020 – 2022)</b></summary>
 <br>
 SMS mass messaging platform processing 10M+ messages monthly. Led React UI refactoring reducing load times by 40%. Improved API response times by 50%.
 </details>
 
 <details>
-<summary><b>🔶 Earlier roles: Unikie Oy, Neusoft Mobile Solutions, Student Works (2014 – 2020)</b></summary>
+<summary><b>Earlier roles: Unikie Oy, Neusoft Mobile Solutions, Student Works (2014 – 2020)</b></summary>
 <br>
 Automotive infotainment HMI systems, embedded C++ development, POC projects with dockerized AWS applications. International project teams across multiple OEMs.
 </details>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Hotwire](https://img.shields.io/badge/Hotwire-FF4500?style=flat-square&logo=hotwire&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+#### Languages & Frameworks
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,ruby,rails,python,django,nodejs,nestjs,java,spring,cpp&perline=13" />
+</a>
 
-### Backend
-![Ruby on Rails](https://img.shields.io/badge/Rails_8-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+#### Frontend
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,redux&perline=13" />
+</a>
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+#### Databases
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&perline=13" />
+</a>
 
-### AI & LLMs
+#### Cloud & DevOps
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,githubactions&perline=13" />
+</a>
+
+#### Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma&perline=13" />
+</a>
+
+#### AI & LLMs
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6F00?style=flat-square&logo=ai&logoColor=white)
-![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Systems-7C3AED?style=flat-square&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-### CMS & Tools
-![Wagtail](https://img.shields.io/badge/Wagtail_CMS-2E1F5E?style=flat-square&logo=wagtail&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-FF6F00?style=flat-square&logoColor=white)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-7C3AED?style=flat-square&logoColor=white)
 
 </div>
 
-## 🏆 Awards & Speaking
-- 🥇 **2nd Place** — Hackaton JunctionX OuluES (2025)
-- 🥇 **Honorable Mention** — 4th Laurence Tran Arctic Futures Award (Polar Foundation, 2025)
-- 📰 **Media Feature** — Kaleva article on founder journey and Willit marketplace
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rholappa&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rholappa&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rholappa&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</div>
+
+## Awards & Speaking
+- **2nd Place** — Hackaton JunctionX OuluES (2025)
+- **Honorable Mention** — 4th Laurence Tran Arctic Futures Award (Polar Foundation, 2025)
+- **Media Feature** — Kaleva article on founder journey and Willit marketplace
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rholappa&color=3B82F6&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <br><br>
-  ⭐️ From <a href="https://github.com/rholappa">rholappa</a>
+  From <a href="https://github.com/rholappa">rholappa</a>
 </div>
