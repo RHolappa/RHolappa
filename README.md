@@ -123,7 +123,7 @@ Automotive infotainment HMI systems, embedded C++ development, POC projects with
 </div>
 
 ## 🏆 Awards & Speaking
-
+- 🥇 **2nd Place** — Hackaton JunctionX OuluES (2025)
 - 🥇 **Honorable Mention** — 4th Laurence Tran Arctic Futures Award (Polar Foundation, 2025)
 - 📰 **Media Feature** — Kaleva article on founder journey and Willit marketplace
 
