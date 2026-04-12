@@ -127,7 +127,7 @@ class Founder < Developer
   end
 
   def philosophy
-    "Ship fast. Modernize legacy. Let AI handle the boring parts."
+    "Ship fast. Iterate faster. Build what people actually need."
   end
 end
 ```
