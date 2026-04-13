@@ -18,7 +18,7 @@
   <tr>
     <td>
       <h3><a href="https://willit.fi">willit.fi</a> &middot; In Production</h3>
-      <p>Promoting the accessibility of arctic food by connecting foragers, fishers, and small producers directly with consumers. Scalable B2B/P2P marketplace built from scratch as a <strong>Rails 8 monolith</strong> (Solid Trifecta, Hotwire) with serverless AWS infrastructure. 99.9% uptime.</p>
+      <p>Promoting the accessibility of arctic food by connecting foragers, fishers, and small producers directly with consumers. Scalable B2B/P2P marketplace built from scratch as a <strong>Rails 8 monolith</strong> (Solid Trifecta, Hotwire).  99.9% uptime with sentry pipeline.</p>
       <p>
         <img src="https://img.shields.io/badge/Co--funded_by_the_European_Union-003399?style=flat-square" />
         <img src="https://img.shields.io/badge/Oulun_Seudun_Leader_ry-10B981?style=flat-square" />
@@ -203,11 +203,6 @@ Automotive infotainment HMI systems, embedded C++ development, POC projects with
 </div>
 
 ## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rholappa&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rholappa&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rholappa&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
