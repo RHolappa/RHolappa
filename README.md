@@ -18,7 +18,7 @@
   <tr>
     <td>
       <h3><a href="https://willit.fi">willit.fi</a> &middot; In Production</h3>
-      <p>Promoting the accessibility of arctic food by connecting foragers, fishers, and small producers directly with consumers. Scalable B2B/P2P marketplace built from scratch as a <strong>Rails 8 monolith</strong> (Solid Trifecta, Hotwire).  99.9% uptim.</p>
+      <p>Promoting the accessibility of arctic food by connecting foragers, fishers, and small producers directly with consumers. Scalable multi-tenant B2B/P2P marketplace built from scratch as a <strong>Rails 8 monolith</strong> (Solid Trifecta, Hotwire websockets).  99.9% uptime running in European servers.</p>
       <p>
         <img src="https://img.shields.io/badge/Co--funded_by_the_European_Union-003399?style=flat-square" />
         <img src="https://img.shields.io/badge/Oulun_Seudun_Leader_ry-10B981?style=flat-square" />
