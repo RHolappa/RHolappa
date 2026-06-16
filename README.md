@@ -12,13 +12,13 @@
 
 ---
 
-## Willit — Arctic Food Marketplace
+## Willit — Intelligent coordination layer for local & wild food
 
 <table>
   <tr>
     <td>
       <h3><a href="https://willit.fi">willit.fi</a> &middot; In Production</h3>
-      <p>Promoting the accessibility of arctic food by connecting foragers, fishers, and small producers directly with consumers. Scalable multi-tenant B2B/P2P marketplace built from scratch as a <strong>Rails 8 monolith</strong> (Solid Trifecta, Hotwire websockets).  99.9% uptime running in European servers.</p>
+      <p>Currently promoting the accessibility of arctic food by connecting foragers, fishers, and small producers directly with consumers. Scalable multi-tenant B2B/P2P PaaS built from scratch as a <strong>Rails 8 monolith</strong> (Solid Trifecta, Hotwire websockets).  99.9% uptime running in European servers.</p>
       <p>
         <img src="https://img.shields.io/badge/Co--funded_by_the_European_Union-003399?style=flat-square" />
         <img src="https://img.shields.io/badge/Oulun_Seudun_Leader_ry-10B981?style=flat-square" />
@@ -34,7 +34,6 @@
         <tr>
           <td><a href="https://www.lahikalaa.fi/">lahikalaa.fi</a><br><sub>Spinoff — Fish marketplace for commercial fishermen</sub></td>
           <td><a href="https://willit24.com">willit24.com</a><br><sub>Smart 24/7 pickup cabinets with temperature monitoring</sub></td>
-          <td><a href="https://willitpro.com">willitpro.com</a><br><sub>AI procurement assistant for restaurants &amp; kitchens</sub></td>
         </tr>
       </table>
     </td>
@@ -45,26 +44,6 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3><a href="https://www.skoutti.com/">Skoutti</a></h3>
-      <p><em>AI-powered lead generation</em></p>
-      <p>Enter your company name — AI analyzes your website, identifies your target audience, and finds matching leads automatically.</p>
-      <p>
-        <img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/SaaS-3B82F6?style=flat-square&logoColor=white" />
-      </p>
-      <a href="https://www.skoutti.com/">skoutti.com</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3><a href="https://www.sinun.ai/fi">Sinun AI</a></h3>
-      <p><em>Trademark — AI assistant for businesses</em></p>
-      <p>Custom AI assistant that knows your company, works in familiar channels, and follows your rules. Hosted in Finland.</p>
-      <p>
-        <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/Hosted_in_Finland-003580?style=flat-square" />
-      </p>
-      <a href="https://www.sinun.ai/fi">sinun.ai</a>
-    </td>
     <td width="33%" valign="top">
       <h3>Founders of Oulu ry</h3>
       <p><em>Non-profit — upcoming</em></p>
@@ -81,13 +60,6 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/Devometric/devometric-platform">Devometric</a></h3>
-      <p>Platform that analyses and assesses your engineering team's AI capabilities.</p>
-      <p>
-        <a href="https://github.com/Devometric/devometric-platform"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-      </p>
-    </td>
     <td width="33%" valign="top">
       <h3><a href="https://github.com/lykky-co-oulu/lykky">Lykky</a></h3>
       <p>Go-to-market toolkit and knowledge base for Oulu-based startups and founders.</p>
