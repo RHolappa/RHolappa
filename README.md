@@ -12,8 +12,6 @@ Senior full-stack developer and founder based in Oulu, Finland. I build marketpl
 
 Related: [lahikalaa.fi](https://www.lahikalaa.fi/) (fish marketplace for commercial fishermen) and [willit24.com](https://willit24.com) (24/7 pickup cabinets with temperature monitoring).
 
-**Tech @ [Rakentaja Mediat](https://rakentaja.fi)** — Leading technical work across content platforms serving 300k+ registered users, modernizing 40+ years of legacy systems with Next.js, Django Wagtail, and Terraform on AWS.
-
 ---
 
 ### Open source
